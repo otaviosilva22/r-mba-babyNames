@@ -22,9 +22,6 @@ con = dbConnect(RSQLite::SQLite(), dbname="database.sqlite")
 });
 ~~~
 
-## Interface Gif
-![](src/public/gif/gifInterface.gif)
-
 ## Autores
 ### <b>Otávio Silva</b>
 ### <a href='https://github.com/MarcosP-Andrade'><b>Marcos Andrade</b><a>
