@@ -1,5 +1,5 @@
 # Análise Exploratória com R
-### Aplicação desenvolvida R para análise exploratória em um banco de dados de nomes de bebês presente no Kaggle.
+### Aplicação desenvolvida em linguagem R para análise exploratória de um banco de dados de nomes de bebês presente no Kaggle.
 
 ## Tecnologias Utilizadas
 - [R](https://www.r-project.org/)
@@ -11,7 +11,7 @@
 ### O banco utilizado pode ser baixado clicando <a href='https://www.kaggle.com/kaggle/us-baby-names'>aqui</a>
 
 ## Leitura do Banco de Dados
-### Para utilizar o banco de dados é necessário antes instalar e carregar os pacotes necessário, bem como definir um caminho de pasta padrão do projeto. Após isso, basta realizar a importação a partir do comando ```dbConnect```.
+### Para utilizar a base é necessário antes instalar e carregar os pacotes instalados, bem como definir um caminho de pasta padrão do projeto. Após isso, basta realizar a importação a partir do comando ```dbConnect```.
 
 ~~~JavaScript
 #define workspace
